@@ -1,0 +1,43 @@
+
+th, td{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+
+
+  table{
+    border-spacing: 30px;
+  }
+  
+  table{
+    margin-left: auto;
+    margin-left: auto;
+  }
+  li {
+    color: rgb(128, 116, 15);
+}
+
+i {
+    color: rgb(167, 60, 18);
+}
+
+body {
+    background-color: rgba(216, 155, 98, 0.719);
+    ;
+    color: rgb(243, 55, 8);
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+a {
+    color: rgb(202, 8, 8);
+}
+
+P {
+    color: rgb(25, 5, 48);
+}
+h1{
+  font-size: xx-large;
+}

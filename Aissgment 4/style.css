@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Caladea-Regular;
+    src: url(../Fonts/Caladea-Regular.ttf);
+}
+
+@font-face {
+    font-family: RussoOne;
+    src: url(../Fonts/RussoOne-Regular.ttf);
+}
+p{
+    font-family: RussoOne;
+}
+
+h1{
+    font-family: RussoOne;
+}
+
+h1 {
+    color: rgb(43, 35, 58);
+}
+
+h2 {
+    color: rgb(216, 197, 145);
+}
+
+h3 {
+    color: rgb(12, 12, 12);
+}
+
+h4 {
+    color: rgb(23, 104, 50);
+}
+
+p {
+    color: rgb(71, 14, 14);
+}
+
+u {
+    color: rgb(151, 25, 25);
+}
+
+i {
+    color: rgb(247, 143, 7);
+    ;
+}
+
+table {
+    color: rgb(111, 141, 121);
+}
+
+body {
+    background-color: white(255, 255, 255);
+    color: white;
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+table {
+    background-color: rgba(179, 59, 11, 0.719);
+    margin-right: auto;
+    margin-left: auto;
+}

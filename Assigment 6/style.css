@@ -1,0 +1,139 @@
+
+    @font-face {
+        font-family: Courgette;
+        src: url(Fonts/Caladea-Regular.ttf);
+    }
+    
+ @font-face {
+    font-family: Lugrasimo;
+    src: url(Fonts/RussoOne-Regular.ttf);
+ }   
+
+ p{
+font-family: Courgette;
+
+ }
+h1 {
+    color: rgb(255, 123, 0);
+    font-family: Lugrasimo;
+}
+.smit{
+    color: #f72323;
+}
+.smit{
+    color: rgb(243, 47, 22);
+}
+button{
+background-color: rgb(144, 144, 235);
+box-shadow: rgb(176, 171, 226) 0px 0px 0px 12px, rgb(103, 95, 180) 0px 0px 0px 12px,
+
+}
+
+tr.spacing {
+    margin-bottom: 10px; /* Adjust the value as needed */
+  }
+  button{
+
+    height: 40px; width: 200px;
+
+  }
+  /* td{
+    background-color: #f72323;
+    padding: 15px;
+    border: 2px solid #111111;
+  }
+  table.one{
+    border-collapse: collapse;
+  } */
+  /* img{
+    border-radius: 50%;
+  } */
+
+  th, td{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+
+
+  table{
+    border-spacing: 30px;
+  }
+  
+  table{
+    margin-left: auto;
+    margin-left: auto;
+  }
+  body{
+    background-color: rgb(255, 255, 255);
+  }
+  table{
+    background-color: rgb(255, 248, 244);
+  }
+
+  /* p{
+    background-color: white;
+  } */
+
+  .smi{
+    padding: 2px;
+    
+    width: 100%;
+    background-color: darkgreen;
+    
+  }
+
+  .tapnav{
+    background-color: #f72323;
+    overflow: hidden;
+  }
+  .tapnav{
+
+    float: left;
+    color: #000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: 17px;
+  }
+
+  .tapnav a:hover{
+
+  background-color: #f72323;
+  color: #f72323;
+  }
+
+  .tapnav a.active{
+
+    background-color: aqua;
+    color: aquamarine;
+  }
+
+
+  .main nav ul{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 70px;
+    list-style: none;
+  }
+  .main nav ul a{
+    text-decoration: none;
+  }
+  .main nav{
+
+    background-color: aquamarine;
+  }
+  .icon{
+float: left;
+
+  }
+ul{
+ background-color: rgb(42, 124, 42); 
+}
+a{
+  color: #e97911;
+}
+
